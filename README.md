@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D18x)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D18x&show_icons=true&include_all_commits=true)
 
 <!--
 **D18x/D18x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
