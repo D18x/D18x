@@ -1,5 +1,6 @@
 ## Hi there 👋
- ![GitHub Metrics](https://raw.githubusercontent.com/D18x/metrics/master/github-metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
+
 
 
 
