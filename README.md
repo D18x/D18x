@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![GitHub Stats]([https://vercel.com/d18xs-projects/stats-d18x/3nEB1kqRwyb5RkLdNE2gT466Kim9/api?username=d18x&show_icons=true&count_private=true&include_all_commits=true)](https://stats-d18x.vercel.app/api?username=d18x&show_icons=true&count_private=true&include_all_commits=true
-)
+![GitHub Stats](https://stats-d18x.vercel.app/api?username=d18x&show_icons=true&count_private=true&include_all_commits=true)
+
 
 
 
