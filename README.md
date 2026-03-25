@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="50"/>
 <img src="https://clonezilla.org/screenshots/?op=show&filepath=./album//01_DRBL-Clonezilla-logo/Clonezilla_2cm.jpg" width="50" alt="Clonezilla Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_the_UEFI_Forum.svg" width="50" alt="UEFI Logo"/>
 </p>
 
 # Programming Languages
