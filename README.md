@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
