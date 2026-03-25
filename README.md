@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/WinSCP_Logo.png" width="50" alt="WinSCP Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WinSCP_6_Logo.png" alt="WinSCP Logo" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
