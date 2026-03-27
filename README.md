@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/qemu.svg" alt="QEMU" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_the_UEFI_Forum.svg" width="50" alt="UEFI Logo"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_Tianocore.svg" width="50"/>
 </p>
 
 # Programming Languages
