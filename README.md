@@ -3,6 +3,7 @@ Follow my solutions on the Microsoft Store
 <a href="https://get.microsoft.com/installer/download/9pj5lsw8s2tb?referrer=appbadge" target="_self" >
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
+<p></p>
 ![GitHub Metrics](./github-metrics.svg)
 
 
