@@ -1,7 +1,9 @@
 ## Hi there 👋
 ![GitHub Metrics](./github-metrics.svg)
 
-
+<a href="https://get.microsoft.com/installer/download/9pj5lsw8s2tb?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 
 
