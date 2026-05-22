@@ -1,4 +1,3 @@
-## Hi there 👋
 ![GitHub Metrics](./github-metrics.svg)
 
 ## Follow my solutions on the Microsoft Store
